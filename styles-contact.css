@@ -70,7 +70,7 @@ html, body {
 .center {
     width: 600px;
 	padding: 2%;
-    margin: 100px auto;
+    margin: 500px auto;
  	background: rgba(39, 208, 238, 0.726); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border: 8px dotted white;
@@ -110,7 +110,7 @@ nav{
 	font-size: 1.2em;
 	width: 400px;
 	margin: 0 auto;
-	border: dashed orange
+	border: dashed orange;
 	border-width: 4px 0;
 	text-align: center;
 	margin-top: 2em;
